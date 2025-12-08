@@ -1,5 +1,8 @@
-## Hi there 👋
+currently 4th yr cs @ ualberta
 
+language focus for this year:
+- C/C++
+- javascript/typescript
 <!--
 **jpagcal/jpagcal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
