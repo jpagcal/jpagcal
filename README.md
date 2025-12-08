@@ -1,6 +1,6 @@
 currently 4th yr cs @ ualberta
 
-language focus for this year:
+language focus for this academic year:
 - C/C++
 - javascript/typescript
 <!--
