@@ -3,6 +3,8 @@ currently 4th yr cs @ ualberta
 language focus for this academic year:
 - C/C++
 - javascript/typescript
+
+currently working on a C++ wrapper on top of the C network & socket API. i want to make a few projects with this in the coming months!
 <!--
 **jpagcal/jpagcal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
