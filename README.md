@@ -4,7 +4,7 @@ language focus for this academic year:
 - C/C++
 - javascript/typescript
 
-currently working on a C++ wrapper on top of the C network & socket API. i want to make a few projects with this in the coming months!
+Currently working on a C++ encapsulation over the POSIX sockets API, with I/O multiplexing handled through the libevent library for blocking operations such as socket buffer reads and writes, and accepting incoming connections. I've been having a lot of fun learning more about how sockets are managed through the kernel, TCP, and programming techniques such as I/O multiplexing that allow for subscription, and hence inversion of control. Otherwise, I'm still enthusiastic about application-level programming and I have a few full stack ideas that I want to get going. You can view my full portfolio here: [My Portfolio](http://jpagcal.github.com/portfolio)
 <!--
 **jpagcal/jpagcal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
