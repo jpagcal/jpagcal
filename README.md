@@ -1,8 +1,6 @@
-i like looking at large scale storage systems and the low-level constructs that support them
+interested in distributed systems, especially large-scale databases
 
-currently focusing on:
-- C++17
-- javascript/typescript
+i love c++17 lol
 
 currently reading:
 - DDIA
