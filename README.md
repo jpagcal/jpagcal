@@ -1,9 +1,4 @@
-interested in distributed systems, especially large-scale databases
-
 i love c++17 lol
-
-currently reading:
-- DDIA
 <!--
 **jpagcal/jpagcal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
